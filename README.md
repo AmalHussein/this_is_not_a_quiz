@@ -1,2 +1,5 @@
-this_is_not_a_quiz
-==================
+# Using Code from Others
+
+We're going to use `fork` on Github and `clone` on our local machines. 
+
+Also, using `remote add` for an upstream. 
